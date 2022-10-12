@@ -181,11 +181,20 @@ int main()
 
     void sign() {
 	    cout << "\n===================================================================================================";
-	    cout << "\n        CCCCC      A        SSSSSSSSS   IIIIIIIII  NN     NN    OOOOOOOO      kk     kk       ";
-	    cout << "\n      CC          A  A      SS             III     NN N   NN   OO      OO     kk   kk         ";
-	    cout << "\n     CC          A    A     SSSSSSSSS      III     NN  N  NN   OO      OO     kkkk            ";
-	    cout << "\n      CC        AAAAAAAA           SS      III     NN   N NN   OO      OO     kk  kk          ";
-	    cout << "\n        CCCCC  A        A   SSSSSSSSS   IIIIIIIII  NN     NN    OOOOOOOO      kk     kk       ";
-	    cout << "\n=====================================================================================================\n";
+	    cout << "\n        CCCCC      A        SSSSSSSSS   IIIIIIIII  NN     NN    OOOOOOOO         ";
+	    cout << "\n      CC          A  A      SS             III     NN N   NN   OO      OO        ";
+	    cout << "\n     CC          A    A     SSSSSSSSS      III     NN  N  NN   OO      OO        ";
+	    cout << "\n      CC        AAAAAAAA           SS      III     NN   N NN   OO      OO        ";
+	    cout << "\n        CCCCC  A        A   SSSSSSSSS   IIIIIIIII  NN     NN    OOOOOOOO         ";
+        cout <<"\n";
+
+        cout << "\n===               COME AND WIN TO SO THAT YOUR LIVE CAN CHANGE                 ===\n";
+
+        cout << "\n       kk   kk    OOOOOOOO    uu     uu         A          OOOOOOOO         ";
+        cout << "\n       kk kk     OO      OO   uu     uu        A  A       OO      OO        ";
+        cout << "\n       kkk       OO      OO   uu     uu       A    A      OO      OO        ";
+        cout << "\n       kk kk     OO      OO   uu     uu      AAAAAAAA     OO      OO        ";
+        cout << "\n       kk   kk    OOOOOOOO    uuuuuuuuu     A        A     OOOOOOOO         ";
+        cout << "\n====================================================================================================\n";
 	    cout << "";
     }
