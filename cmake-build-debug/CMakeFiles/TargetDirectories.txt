@@ -1,0 +1,3 @@
+C:/Users/kouao/OneDrive/Desktop/BYU-I/FALL 2022/CSE 310 APP PROGRAM/SPRINT TWO/KOUAO-CASINO/cmake-build-debug/CMakeFiles/KOUAO_CASINO.dir
+C:/Users/kouao/OneDrive/Desktop/BYU-I/FALL 2022/CSE 310 APP PROGRAM/SPRINT TWO/KOUAO-CASINO/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kouao/OneDrive/Desktop/BYU-I/FALL 2022/CSE 310 APP PROGRAM/SPRINT TWO/KOUAO-CASINO/cmake-build-debug/CMakeFiles/rebuild_cache.dir

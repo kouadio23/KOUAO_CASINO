@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "KOUAO_CASINO",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "KOUAO_CASINO::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-KOUAO_CASINO-Debug-f375065b468d9bdb0d99.json",
+					"name" : "KOUAO_CASINO",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/kouao/OneDrive/Desktop/BYU-I/FALL 2022/CSE 310 APP PROGRAM/SPRINT TWO/KOUAO-CASINO/cmake-build-debug",
+		"source" : "C:/Users/kouao/OneDrive/Desktop/BYU-I/FALL 2022/CSE 310 APP PROGRAM/SPRINT TWO/KOUAO-CASINO"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
