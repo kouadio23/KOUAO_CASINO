@@ -1,4 +1,4 @@
-# Overview
+ Overview
 
 This project demontrate my ability to use and implement C++ language to my software. in addition to Python, C++ will be added to my language portfolio.
 
@@ -6,11 +6,11 @@ This software presents a gambling game in which the player is ask to guess one o
 
 This sofware is to demonstrate my ability to manipulate functions and loops in C++
 
-[Software Demo Video]()
+[Software Demo Video](https://www.youtube.com/watch?v=ymYLyG1g874)
 
 # Development Environment
 
-* Visual Studio
+* Visual Studio and C-lion / I just want to know how to use different IDE
 * C++
 * Git / Github
 * Youtube

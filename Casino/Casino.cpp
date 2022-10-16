@@ -14,8 +14,7 @@ int main()
     int amount;// Amount the player will have 
     int betAmount; // Amount the player is willing to bet
     int betAmount2;// second bet mount
-    string playerName;
-    int numBet; // Numbers to guess
+    string playerName;    int numBet; // Numbers to guess
     int numGuess; // Numbers guessed
     int numGuess2; // second number guesses
     int dice;
@@ -139,7 +138,7 @@ int main()
             }
             else
             {
-                cout << "Sorry you lost  $ " << betAmount + betAmount2 << "\n";
+                cout << "<< betAmount + betAmount2 << "\n";
                 amount -= (betAmount +betAmount2);
             }
 
@@ -189,7 +188,6 @@ int main()
         cout <<"\n";
 
         cout << "\n===               COME AND WIN TO SO THAT YOUR LIVE CAN CHANGE                 ===\n";
-
         cout << "\n       kk   kk    OOOOOOOO    uu     uu         A          OOOOOOOO         ";
         cout << "\n       kk kk     OO      OO   uu     uu        A  A       OO      OO        ";
         cout << "\n       kkk       OO      OO   uu     uu       A    A      OO      OO        ";
